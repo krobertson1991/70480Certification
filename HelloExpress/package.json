@@ -1,0 +1,16 @@
+{
+  "name": "helloexpress",
+  "version": "0.0.0",
+  "description": "a simple website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Glenn Johnson",
+  "license": "BSD",
+  "private": true,
+  "dependencies": {
+    "express": "4.16.4"
+  }
+}
